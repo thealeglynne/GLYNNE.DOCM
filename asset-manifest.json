@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GLYNNE.DOCM/static/css/main.9922f16d.css",
+    "main.js": "/GLYNNE.DOCM/static/js/main.1fb236f1.js",
+    "static/js/787.c1112931.chunk.js": "/GLYNNE.DOCM/static/js/787.c1112931.chunk.js",
+    "static/media/bienbenido a GLYNNE.mp4": "/GLYNNE.DOCM/static/media/bienbenido a GLYNNE.0dca758d7093499ac04d.mp4",
+    "static/media/welcome GLYNNE.mp4": "/GLYNNE.DOCM/static/media/welcome GLYNNE.8ac62736c4e3a26acd9f.mp4",
+    "static/media/backS5.gif": "/GLYNNE.DOCM/static/media/backS5.364648b05a43a223e4c3.gif",
+    "static/media/AirBrush_20230717124448.jpg": "/GLYNNE.DOCM/static/media/AirBrush_20230717124448.9f3a122344cd607b4803.jpg",
+    "static/media/1_c92a5528-84ca-41f1-a82f-99bfe28db230.png": "/GLYNNE.DOCM/static/media/1_c92a5528-84ca-41f1-a82f-99bfe28db230.df454f6e969e64e3e119.png",
+    "static/media/back400.jpg": "/GLYNNE.DOCM/static/media/back400.79beb8d93f7622e09720.jpg",
+    "static/media/miniatura.png": "/GLYNNE.DOCM/static/media/miniatura.0b2a636fec0c91292c9b.png",
+    "static/media/Alien Robot.otf": "/GLYNNE.DOCM/static/media/Alien Robot.42dac8ab28433abc9276.otf",
+    "index.html": "/GLYNNE.DOCM/index.html",
+    "main.9922f16d.css.map": "/GLYNNE.DOCM/static/css/main.9922f16d.css.map",
+    "main.1fb236f1.js.map": "/GLYNNE.DOCM/static/js/main.1fb236f1.js.map",
+    "787.c1112931.chunk.js.map": "/GLYNNE.DOCM/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9922f16d.css",
+    "static/js/main.1fb236f1.js"
+  ]
+}
