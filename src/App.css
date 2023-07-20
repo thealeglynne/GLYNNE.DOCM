@@ -196,11 +196,13 @@ letter-spacing: 2px;
 .footerLinks a .footerIcon {
   margin-right: 10px; /* Ajusta el valor según el espacio deseado */
   font-size: 20px;
+  background-color: transparent;
 }
 
 .footerLinks a:hover {
   text-decoration: none;
   color: rgba(0, 0, 0, 0.62);
+  background-color: transparent;
 }
 
 /* Estilos responsivos */
@@ -364,6 +366,20 @@ letter-spacing: 2px;
     position: relative;
     z-index: 10;
     filter: blur(3%);
+    left: 5%;
+  }
+}
+@media screen and (max-width:400px) {
+  nav ul {
+    text-align: start;
+    list-style-type: none;
+    margin: 0px;
+    padding: 17px;
+    font-size: 9px;
+    position: relative;
+    z-index: 10;
+    filter: blur(3%);
+    left: 5%;
   }
 }
 @media screen and (max-width: 900px) and (max-height:500px){
@@ -384,4 +400,5 @@ letter-spacing: 2px;
   .section6{
     height: 65vh;
   }
+ 
 }
