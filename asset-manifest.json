@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GLYNNE.DOCM/static/css/main.9922f16d.css",
+    "main.css": "/GLYNNE.DOCM/static/css/main.552b2abb.css",
     "main.js": "/GLYNNE.DOCM/static/js/main.1fb236f1.js",
     "static/js/787.c1112931.chunk.js": "/GLYNNE.DOCM/static/js/787.c1112931.chunk.js",
     "static/media/bienbenido a GLYNNE.mp4": "/GLYNNE.DOCM/static/media/bienbenido a GLYNNE.0dca758d7093499ac04d.mp4",
@@ -12,12 +12,12 @@
     "static/media/miniatura.png": "/GLYNNE.DOCM/static/media/miniatura.0b2a636fec0c91292c9b.png",
     "static/media/Alien Robot.otf": "/GLYNNE.DOCM/static/media/Alien Robot.42dac8ab28433abc9276.otf",
     "index.html": "/GLYNNE.DOCM/index.html",
-    "main.9922f16d.css.map": "/GLYNNE.DOCM/static/css/main.9922f16d.css.map",
+    "main.552b2abb.css.map": "/GLYNNE.DOCM/static/css/main.552b2abb.css.map",
     "main.1fb236f1.js.map": "/GLYNNE.DOCM/static/js/main.1fb236f1.js.map",
     "787.c1112931.chunk.js.map": "/GLYNNE.DOCM/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9922f16d.css",
+    "static/css/main.552b2abb.css",
     "static/js/main.1fb236f1.js"
   ]
 }
